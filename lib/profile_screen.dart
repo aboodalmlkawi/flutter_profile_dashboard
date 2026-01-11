@@ -27,6 +27,11 @@ class ProfileScreen extends StatelessWidget {
                 child: Stack(
                   alignment: Alignment.bottomRight,
                   children: [
+
+                    const CircleAvatar(
+                      radius: 60,
+                      backgroundImage: AssetImage('assets/profile.png.jpeg'),
+                    ),
                     const CircleAvatar(
                       radius: 60,
                       backgroundImage: NetworkImage('https://via.placeholder.com/150'),

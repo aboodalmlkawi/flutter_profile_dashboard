@@ -21,11 +21,13 @@ This project covers a wide range of Flutter widgets as per the assignment requir
 | **State Management** | `StatelessWidget`, `StatefulWidget`, `setState` |
 
 ## Screenshots
-*(Note: Add your app screenshots here after running the app)*
-1. **Profile Screen**: `[Add Image Link]`
-2. **Counter Screen**: `[Add Image Link]`
 
-## ⚙ How to Run
+| Profile Screen | Counter Screen |
+| :---: | :---: |
+| ![Profile](assets/profile.png.jpeg) | ![Counter](assets/counter.png.jpeg) |
+
+
+##  How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/flutter_profile_dashboard.git](https://github.com/YOUR_USERNAME/flutter_profile_dashboard.git)
+   git remote add origin https://github.com/aboodalmlkawi/flutter_profile_dashboard.git
